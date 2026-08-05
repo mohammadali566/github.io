@@ -9,11 +9,10 @@ I am deeply passionate about **Defensive Security (Blue Team)**, network securit
 I actively write and publish articles to share knowledge and break down complex technical concepts into actionable, realistic content. In my writings, you will find:
 * **Cybersecurity & Threat Analysis:** Strategies for monitoring, defending, and analyzing digital threats.
 * **Practical Insights & Write-ups:** Documenting hands-on labs, capture-the-flag experiences. 
-* **Automation & Scripting:** Leveraging **Python** to streamline security and networking tasks.
 * **Industry Perspectives:** Thoughts on the evolving landscape of information security and tech.
 
 ### 🎯 Looking Forward
-Currently advancing my academic journey in **Cybersecurity** at Al-Hussein Technical University (HTU), I am dedicated to merging practical operational experience with rigorous academic knowledge to pave the way for a career as a trusted Security Consultant.
+ I am dedicated to merging practical operational experience with rigorous academic knowledge to pave the way for a career as a trusted Security Consultant.
 
 ---
 Let's connect, collaborate, and secure the digital world together!
