@@ -8,7 +8,7 @@ I am deeply passionate about **Defensive Security (Blue Team)**, network securit
 ### ✍️ Content Creation & Articles
 I actively write and publish articles to share knowledge and break down complex technical concepts into actionable, realistic content. In my writings, you will find:
 * **Cybersecurity & Threat Analysis:** Strategies for monitoring, defending, and analyzing digital threats.
-* **Practical Insights & Write-ups:** Documenting hands-on labs, capture-the-flag experiences, and projects like "The Guardian Node."
+* **Practical Insights & Write-ups:** Documenting hands-on labs, capture-the-flag experiences. 
 * **Automation & Scripting:** Leveraging **Python** to streamline security and networking tasks.
 * **Industry Perspectives:** Thoughts on the evolving landscape of information security and tech.
 
