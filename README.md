@@ -4,11 +4,11 @@ Welcome to my digital space where I share my journey, insights, and practical fi
 
 ## 🛡️ Who Am I?
 
-I am deeply passionate about **Defensive Security (Blue Team)**, network security, and building secure virtual lab environments. Holding the **eJPTv2** certification alongside a solid background in network engineering and multiple professional IT and security credentials, I believe that true technical mastery stems from hands-on experience and continuous learning.
+I am deeply passionate about **Defensive Security (Blue Team)**, network security, and building secure virtual lab environments. Currently preparing for the **eJPTv2** certification alongside a solid background in network engineering and multiple professional IT and security credentials, I believe that true technical mastery stems from hands-on experience and continuous learning.
 
 ### 🏆 Recent Achievements & Certifications
 
-* **eJPTv2 Certified:** Junior Penetration Tester (INE) - *Validating core offensive & defensive security methodologies.*
+* **eJPTv2 (In Preparation):** Junior Penetration Tester (INE) - *Focusing on core offensive & defensive security methodologies.*
 * **TryHackMe - Hacker Holidays (Byte Lotus):** Completed a 14-day intensive hands-on challenge (August 2026), successfully rooting and breaching complex multi-room lab environments[cite: 1].
 
 ## ✍️ Content Creation & Articles
